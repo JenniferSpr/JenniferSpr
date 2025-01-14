@@ -1,24 +1,12 @@
+# Welcome
+Hello, I'm Jennifer S. 👋🏻
 
- 📚 Table of Contents
----
-- [Python](#Python)
-- [SQL](#SQL)
-- [Tableau](#Tableau)
-- [R](#R)
+I'm a final-year student in Business Management with a growing passion for coding. 
 
-## Python 
-| **Project Link** | **Area** | **Project Description** | **Libraries**|
-|-----------------|---------------|----------------|----------------|
-| Contenu ligne 1 | Contenu ligne 1 | Contenu ligne 1 |
-| Contenu ligne 
+## 📚 Projects 
+Welcome to my portfolio, where I showcase my projects and learning journey.
 
-
-## SQL 
-
-
-## Tableau
-
-
-## R
-
+## 🛠️ Tools 
+- **Languages** : Python, SQL, R
+- **Visualization** : Tableau 
 
